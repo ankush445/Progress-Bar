@@ -36,7 +36,7 @@ import ProgressBar
 import SwiftUI
 struct ContentView: View {
     var body: some View {
-        CircularProgressView(progress: 0.5, size: 200, lineWidth: 3, style: .gradient)
+        ProgressBar(progress: 0.5, size: 200, lineWidth: 3, style: .gradient)
     }
 }
 ```
@@ -45,7 +45,7 @@ struct ContentView: View {
 
 ## 🛠 Requirements
 
-* iOS 16+
+* iOS 13+
 * Swift 5+
 
 ---
