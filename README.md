@@ -41,6 +41,10 @@ struct ContentView: View {
 }
 ```
 
+## 📸 Preview
+
+![Progress Bar Demo](Screenshots/demo.png)
+
 ---
 
 ## 🛠 Requirements
